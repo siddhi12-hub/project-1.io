@@ -13,17 +13,11 @@ header{
     justify-content: space-between;
     transition: 0.6s;
     padding: 40px 100px;
-    
-    
-    
-    
-
-    
-}
+   }
 
 header.sticky{
     padding: 5px 100px;
-    background-color: brown;
+    background-color: deepskyblue;
 
 }
 header .logo{
@@ -68,10 +62,10 @@ header sticky ul li a{
     color:black;
 }
 p {font-family:Arial, Helvetica, sans-serif; color:black;}
-body { background-color:whitesmoke;}
+body { background-color:white;}
 
 table {font-family:Arial, Helvetica, sans-serif;}
-th {background-color:brown; color:white;} 
+th {background-color:deepskyblue; color:white;} 
 tr { background-color: #f5f5f5;} 
 h2 {font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
 
@@ -83,7 +77,7 @@ h2 {font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
     width: 33%;
     float: left;
     text-align: left;
-    color:palegreen;
+    color:black;
 }
 .single-footer ul{
     margin:0;
@@ -94,7 +88,7 @@ h2 {font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
 .single-footer ul a{
     text-transform:inherit;
     text-decoration: none;
-    color:lightblue;
+    color:navy;
     font-size: 16px;
 
 }
@@ -103,7 +97,7 @@ footer{
     height:200px;
     position: relative;
     bottom: 0;
-    background-color:brown;
+    background-color:silver;
 }
 .center{
     display: block;
@@ -115,8 +109,8 @@ footer{
     margin-right: auto;
 }
 .single-footer p{
-    color: lightblue;
+    color: navy;
 }
 .single-footer a{
-    color: aqua;
+    color: navy;
 }
