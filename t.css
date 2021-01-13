@@ -118,3 +118,6 @@ footer{
  body{
      background-color: whitesmoke;
  }
+@media only screen and (max-width: 768px)
+[class*="col_"]{
+    width=100%
