@@ -122,4 +122,6 @@ footer{
  }
 @media only screen and (max-width: 768px)
 [class*="col_"]{
-    width=100%
+    width=100%}
+img{
+max-width:100%}
